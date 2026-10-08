@@ -1,2 +1,2 @@
 # agpc
-Couse Files for Agricultural Computer Applications
+Course Files for Agricultural Computer Applications
